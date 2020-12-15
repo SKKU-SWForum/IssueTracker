@@ -17,4 +17,4 @@ SWForum 운영을 위한 인원 모집 혹은 자원 모집으로, 일시적입�
 
 - 대상 글은 현재 School_FAQs repository에 올라와있는 글들입니다.
 
-- 하고싶은 분들은 issue에 권한요청하시면 됩니다!
+- 하고싶은 분들은 fork해서 작업하신 다음에 pull request 하시면 됩니다!
