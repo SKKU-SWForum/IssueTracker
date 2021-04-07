@@ -17,7 +17,7 @@
 
       
 
-2. 참여 방법: postEvent repository를 fork한 이후 Introduce_Linux 디렉토리에 작성 이후 Push Request하면 됩니다.
+2. 참여 방법: postEvent repository를 fork한 이후 Introduce_Linux 디렉토리에 작성 이후 Pull Request하면 됩니다.
 
 3. 필수 작성 내용
 
